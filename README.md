@@ -6,8 +6,9 @@
  ![Image](https://github.com/user-attachments/assets/24551d6a-6b8a-449f-a4ec-0c973722a108)
 
  
-                       [채팅 기능]
+          [채팅 기능]                    [알림 기능]
  
-    ![Image](https://github.com/user-attachments/assets/7a1596a6-3370-4c54-9e7b-a7c9b3e704b3)
+![Image](https://github.com/user-attachments/assets/9504126e-dd9a-466c-873a-6e1e175f16c3)   
+![Image](https://github.com/user-attachments/assets/1dc62294-bcf5-4348-affb-b82e82ec267c)
 
 
